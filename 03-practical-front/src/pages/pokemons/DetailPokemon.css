@@ -1,0 +1,62 @@
+.detail-container {
+    
+    padding: 40px;
+    border-radius: 15px;
+    margin: 0;
+}
+
+.pokemon-name.card-title.h5{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Avantgarde', sans-serif;
+    text-align: left;
+    position: relative;
+    left: 5%;
+    top: 10%;
+    bottom: 10%;
+
+
+}
+
+.pokemon-types .type-badge {
+    background-color: #007bff;
+    margin-right: 5px;
+    font-size: 1rem;
+}
+
+.pokemon-description {
+    font-size: 15px;
+    font-family: 'Jost-Regular', sans-serif;
+    color: rgba(255, 255, 255, 0.621);
+}
+
+.pokemon-image {
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+    margin: 0 auto;
+    position: relative;
+    top: 10%;
+
+    left: 12%;
+}
+
+.stat-card {
+    margin-top: 10px;
+    color: #000;
+    font-weight: bold;
+}
+
+.evolution-card {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.evolution-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+}

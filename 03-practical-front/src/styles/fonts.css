@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'AvantGarde';
+    src: local('AvantGarde LT Medium'); 
+    src: url('../fonts/AvantGarden/ITCAvantGardeGothicLTBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Jost-Medium';
+    src: url('../fonts/Jost/Jost-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jost-Regular';
+    src: url("../fonts/Jost/Jost-Regular.ttf") format('truetype');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Jost-Bold';
+    src: url("../fonts/Jost/Jost-Bold.ttf") format('truetype');
+    font-weight: 700;
+    font-style: normal;
+
+}
